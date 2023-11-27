@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GrapytoVector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrapytoVector_jar</output-path>
+    <root id="archive" name="GrapytoVector.jar">
+      <element id="module-output" name="GrapytoVector" />
+    </root>
+  </artifact>
+</component>
